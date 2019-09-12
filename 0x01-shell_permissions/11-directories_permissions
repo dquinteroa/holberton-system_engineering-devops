@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r -type d 711
+chmod -r ugo=X .
